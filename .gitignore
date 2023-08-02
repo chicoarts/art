@@ -3,6 +3,10 @@ public
 resources
 .idea
 content/.obsidian
+content/ES
+content/templates
+content/EN/=test=
+content/EN/=img=
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
