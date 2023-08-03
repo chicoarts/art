@@ -1,6 +1,7 @@
 ---
 title: "TCG Illustrations"
 aliases: "TCG Illustrations"
+enableToc: false
 tags:
 - year-2020
 ---
@@ -8,14 +9,9 @@ tags:
 - [ ] Alolan Sandslash
 - [ ] Luxray
 
-# Skiddo
-![[EN/image/skiddo.jpg]]
-# Deerling
-![[EN/image/deerling.jpg]]
-# Houndour
-![[EN/image/houndour.jpg]]
-# Houndoom
-![[EN/image/houndoom.jpg]]
-# Toxtricity
-![[EN/image/toxtricity.jpg]]
-![[EN/image/toxtricity2b.jpg]]
+![[EN/2020-2021/skiddo|Skiddo]]![[deerling|Deerling]]
+![[houndour|Houndour]]
+
+![[houndoom|Houndoom]]
+
+![[toxtricity|Toxtricity]]

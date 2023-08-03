@@ -1,6 +1,7 @@
 ---
 title: "Pending Projects"
 aliases: "Pending Projects"
+enableToc: false
 ---
 
 # 2013
