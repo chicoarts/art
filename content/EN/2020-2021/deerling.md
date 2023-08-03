@@ -4,4 +4,4 @@ aliases: "Deerling"
 tags:
 - year-2020
 ---
-![[EN/image/deerling.jpg]]
+![[EN/image/img_deerling.jpg]]

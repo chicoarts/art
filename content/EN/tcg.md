@@ -9,7 +9,10 @@ tags:
 - [ ] Alolan Sandslash
 - [ ] Luxray
 
-![[EN/2020-2021/skiddo|Skiddo]]![[deerling|Deerling]]
+![[EN/2020-2021/skiddo|Skiddo]]
+
+![[deerling|Deerling]]
+
 ![[houndour|Houndour]]
 
 ![[houndoom|Houndoom]]
