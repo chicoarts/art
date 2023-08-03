@@ -1,7 +1,7 @@
 ---
 title: "Anatomy Practice"
 tags:
-- 2014
+- year-2014
 ---
 ![[EN/image/Manos I.jpg]]
 ![[EN/image/Manos II.jpg]]

@@ -1,5 +1,6 @@
 ---
 title: "Pending Projects"
+aliases: "Pending Projects"
 ---
 
 # 2013

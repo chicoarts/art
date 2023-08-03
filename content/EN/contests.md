@@ -1,3 +1,4 @@
 ---
 title: "Contests"
+aliases: "Contests"
 ---
