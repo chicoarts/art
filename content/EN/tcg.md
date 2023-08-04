@@ -11,10 +11,10 @@ tags:
 
 ![[EN/2020-2021/skiddo|Skiddo]]
 
-![[deerling|Deerling]]
+![[EN/2020-2021/deerling|Deerling]]
 
-![[houndour|Houndour]]
+![[EN/2020-2021/houndour|Houndour]]
 
-![[houndoom|Houndoom]]
+![[EN/2020-2021/houndoom|Houndoom]]
 
-![[toxtricity|Toxtricity]]
+![[EN/2020-2021/toxtricity|Toxtricity]]
