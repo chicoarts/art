@@ -1,6 +1,7 @@
 ---
 title: "Test"
 ---
+%% prueba %%
 [[EN/recent]]
 ![[EN/recent]]
 [[EN/recent|Recent Artworks]]
